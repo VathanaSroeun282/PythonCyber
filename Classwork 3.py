@@ -1,0 +1,2 @@
+name, age, email, occupation, hobbies  = input("What is your name? "), input('How old are you? '), input('What is your email address? '), input('What is your occupation? '), input('What are your hobbies? ') 
+print('User Profile\n', 'Name : ' , name, '\nAge : ', age,'\nEmail : ', email, '\nOccupation : ' , occupation,'\nHobbies: ', hobbies)
