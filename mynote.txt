@@ -1,1 +1,17 @@
 This is my python files.
+
+If got some issue in vs code when write python
+-----------------------------------------------
+In Visual Studio Code, the steps to save a file with a specific encoding are slightly different than mentioned earlier. Here’s the updated guide:
+
+Open the Command Palette:
+
+Press Ctrl+Shift+P (or Cmd+Shift+P on macOS) to open the Command Palette.
+Find the Encoding Command:
+
+Type Change File Encoding in the Command Palette and select the Change File Encoding option.
+Select Encoding:
+
+Choose Save with encoding from the options.
+Then select UTF-8 from the list of encodings.
+
